@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lamtuan264
 - 👀 I’m interested in Internet and Computer
 - 🌱 I’m currently learning Mathematics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on blockchain
+- 📫 Reach me in telegram
 
 <!---
 lamtuan264/lamtuan264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
